@@ -1,0 +1,83 @@
+Scrum is a framework that helps teams to work together.
+
+Scrum defines three roles
+
+>Product Manager
+>Scrum Master
+>Development team
+
+1. PRODUCT MANAGER:
+      * Represents Customer and other Stakeholders.
+      * Drives the product backlogs, a prioritised dynamic list of all requirments needed for the product.
+      * Creats a sprint, a period of 1 to 4 weeks based on sprint goal.
+      * during sprint planning he creats sprint backlog to resolve the issues if any. 
+      * during sprint planning he creats sprint backlog to resolve the issues if any.
+
+
+2. SCRUM MASTER:
+      * One who inspect and adopt the progress of team on daily basis.
+      * Directs and solves any impediments in the team and helps to progress towords the sprint goal.
+      * He makes sure the scrum is understood and ecacted.
+      * He  acts as servant leader of scrumteam.
+
+3. DEVELOPMENT TEAM:
+      * Developmant team consists of profossional who do the work of delivering a potentially releasable increment of done product at end of every sprint.
+      * Development teams are structured and empowred by the orninisation and manage their own task.
+      * Development team should not be too samll and too big.
+      * development team should be interactive,productivie and coordinative.
+      * They should keep the product related information transparency in order to understand/accessible by other team mates
+
+
+      SCRUM EVENTS:
+         
+	      Prescribed events are created by Product Manger to keep reqularity and to minimize the need for meetings.
+	       
+	      It consists of
+	                
+			* SPRINT
+			* SPRINT PLANNING
+			* DAILY SCRUM
+			* SPRINT REVIEW 
+			* SPRINT RETROSPECTIVE 
+	      
+	      NOTE: I will upadte the above  * classes in coming seesions
+
+      SCRUM ARTIFACTS:
+             
+	      Artifacts defiend by scrum are mainly created to maintain transparency of key information so that every body has the same understanding about the work/project.
+
+	      It consists of 
+	               
+		       * PRODUCT BLOCKLOG
+                       * SPRINT BACKLOG
+		       * INCREMENT 
+		           
+              NOTE: I will update the above * classes in coming sessions.
+
+
+              Prescribed events are created by Product Manger to keep reqularity and to minimize the need for meetings.
+
+              It consists of
+
+                        * SPRINT
+                        * SPRINT PLANNING
+                        * DAILY SCRUM
+                        * SPRINT REVIEW
+                        * SPRINT RETROSPECTIVE
+
+              NOTE: I will upadte the above  * classes in coming seesions
+
+      SCRUM ARTIFACTS:
+
+              Artifacts defiend by scrum are mainly created to maintain transparency of key information so that every body has the same understanding about the work/project.
+
+              It consists of
+
+                       * PRODUCT BLOCKLOG
+                       * SPRINT BACKLOG
+                       * INCREMENT
+
+              NOTE: I will update the above * classes in coming sessions.
+
+
+
