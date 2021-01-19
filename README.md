@@ -82,7 +82,7 @@ $ git config --global core.editor vi
 
 ##### Clone an existing repository:
 
-There are two ways:
+There are three ways:
 
 Via SSH
 
@@ -95,6 +95,10 @@ Via HTTP
 ```
 $ git clone http://domain.com/user/repo.git
 ```
+Via GitHub CLI
+
+```
+$ gh repo clone username/repo
 
 ##### Create a new local repository in the current directory:
 ```
