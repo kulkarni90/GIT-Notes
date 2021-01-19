@@ -1,4 +1,4 @@
-<h1>Git and Git Flow Cheat Sheet</h1>   <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
+Git and Git Flow Cheat Sheet
 ===============
 Git Cheat Sheet English
 ===============
