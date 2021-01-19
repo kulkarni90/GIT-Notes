@@ -26,5 +26,5 @@ there by developer can work without relying on server during the  code developme
 <b>Definition:</b>
          Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
 
-<B>Windows users:</b> download > Git bash > to run the git commands locally.
+<i><b>Windows users:</b></i> download > Git bash > to run the git commands locally./n
 <i><b>Linux/ macOS:</b></i> no need to download. use terminal to run the bash commands.
