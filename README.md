@@ -99,6 +99,7 @@ Via GitHub CLI
 
 ```
 $ gh repo clone username/repo
+```
 
 ##### Create a new local repository in the current directory:
 ```
