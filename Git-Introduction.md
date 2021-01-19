@@ -14,13 +14,14 @@ Version control is a system that keeps track of changes to a file or set of file
 
 <b>Centralized Version Control Systems:</b>
 These systems have a single server which acts as a central storage(repository) for all the versioned files so as all the developers can checkout files from that central place.
+<img alt="Git" src="./Images/cvcs.png" height="250" width="300">
 
 											
 
 <b>Distributed Version Control Systems:</b>
 These system have a single server which acts as a central storage and all the developers will have a copy in local with all the versioned files.
 there by developer can work without relying on server during the  code development.
-										
+<img alt="Git" src="./Images/dvcs.png" height="250" width="300">									
 
 
 <b>Definition:</b>
