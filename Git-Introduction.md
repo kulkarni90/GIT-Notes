@@ -1,4 +1,5 @@
-    Hello learners, before learning about Git lets know Some Basics which helps in better understanding.
+
+ <h3>Hello learners,</h3> before learning about Git lets know Some Basics which helps in better understanding.
 
 In simple words Git is a CLI(Command Line Interface) tool to communicate with Github from local system/machine.  
 
