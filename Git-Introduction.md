@@ -1,9 +1,9 @@
 
- <b>Hello learners,</b> Before learning about Git lets know Some Basics which helps in better understanding.
+ <b>Hello learners,</b> before learning about Git lets know Some Basics which helps in better understanding.
 
 In simple words Git is a CLI(Command Line Interface) tool to communicate with Github from local system/machine.  
 
-What is Command?
+<p style="color:red;">What is Command?</p>
             A command is an instruction given by a user telling a 'TERMINAL' to do something, such a run a single program or a group of linked programs. Commands are generally issued by typing them in at the command line (i.e., the all-text display mode)and then pressing the ENTER key, which passes them to the 'SHELL'.
 
 What is TERMINAL and SHELL?
