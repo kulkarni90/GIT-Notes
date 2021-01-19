@@ -1,11 +1,5 @@
-Git and Git Flow Cheat Sheet
+<h1>Git and Git Flow Cheat Sheet</h1>   <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
 ===============
-<hr>
-<p align="center">
-    <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
-</p>
-<hr>
-
 Git Cheat Sheet English
 ===============
 ### Index
