@@ -1,79 +1,29 @@
-Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
+    <h3>Hello learners,</h3> before learning about Git lets know Some Basics which helps in better understanding.
 
-Some of git commands are given below:
+In simple words Git is a CLI(Command Line Interface) tool to communicate with Github from local system/machine.  
 
-git config --global user.name"username" 
-                (to linkup github(server) with local git( )
-git config -- global user.mail "mail
-                ( to link with mail)
-git clone    -> to clone a repository into new directory
+What is Command?
+            A command is an instruction given by a user telling a 'TERMINAL' to do something, such a run a single program or a group of linked programs. Commands are generally issued by typing them in at the command line (i.e., the all-text display mode)and then pressing the ENTER key, which passes them to the 'SHELL'.
 
-git init     ->Create an empty Git repository or reinitialize an existing one
+What is TERMINAL and SHELL?
+           A shell is the program that the terminal sends user input. The shell generates output and passes it back to the terminal for display.
 
+What is Version Control? 
+Version control is a system that keeps track of changes to a file or set of files over time so that you can recall specific versions later when ever required. 
 
-git-add      ->Add file contents to the index
+Centralized Version Control Systems:
+These systems have a single server which acts as a central storage(repository) for all the versioned files so as all the developers can checkout files from that central place.
 
-git-branch   ->List, create, or delete branches
+											
 
-git-show-branch ->Show branches and their commits
-
-git-filter-branch ->Rewrite branch
-
-git-checkout ->Switch branches or restore working tree files
-
-git-checkout-index ->Copy files from the index to working tree
-
-git-commit   ->Record changes to the repository
-
-git-commit-graph ->Write and verify commit-graph files
-
-git-commit-tree ->Creat a new commit object
-
-git-fetch    ->Download objects and refs from another repository
-
-git -status  ->Show the working tree status
-
-git pull     ->Fetch from and integrate with another repository or a local branch
-
-git-request-pull -> Generates a summary pf pending changes
-
-git push     ->Update remote refs along with associated objects
-
-git-http-push ->Push objects over HTTP/DAV to another repository
-
-git-http-fetch ->Download from a remote Git repository via HTTP
-
-git megre    ->Join two or more development histories together
-
-git-merge-file -> Run a three-way file merge
-
-git-merge-index ->Run a merge for files needing merging
-
-git-megre-base ->Find as good common ancestors as possible for a merge
-
-git mergetool ->Run merge conflict resolution tools to resolve merge conflict
-
-git-merge-tree ->Show three-way merge without touching index 
-
-git-merge-one-file ->The standard helper program to use with git-merge-index
-
-git-fmt-merge-msg -> produce a merge commit message
-
-git rm       ->Remove files from the working tree and from the index
-
-git restore  ->Restore working tree files
-
-git revert   ->Revert some existing commit
-
-git reset    -> Reset current HEAD to the specifird state
-
-git switch   ->Switch branches
-
-git remote  ->Mangae set of tracked repositories
-
-git-help    -> Display information about Git
-
-git -shell  -> restricted login shell for Git-only SSH access
+Distributed Version Control Systems:
+These system have a single server which acts as a central storage and all the developers will have a copy in local with all the versioned files.
+there by developer can work without relying on server during the  code development.
+										
 
 
-  will update other commands after i learn.
+Definition:
+         Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
+
+Windows users: download > Git bash > to run the git commands locally.
+Linux/ macOS: no need to download. use terminal to run the bash commands.
