@@ -1,4 +1,4 @@
-Git and Git Flow Cheat Sheet  <img alt="Git" src="./Images/logo.png" height="50" width="50">
+Git and Git Flow Cheat Sheet  <img alt="Git" src="./Images/logo.png" height="80" width="80">
 ===============
 ### Index
 * [Set Up](#setup)
